@@ -24,4 +24,4 @@ gaber1 = gako1 - zapro1
 
 print("SLIP GAJI PT. XYZ\n")
 print("------------------\n")
-print("Nama Pegawai \t\t: ",name1)
+print("Nama Pegawai \t\t: ",zapro1)
